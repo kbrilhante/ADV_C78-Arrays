@@ -45,17 +45,17 @@
         <hr>
         <p>
             Declarando o Array com letras do alfabeto:
-            <h4 id="declaraAlfabeto"></h4>
+            <h4 id="declaraletras"></h4>
         </p>
         <hr>
         <p>
             Organizando o Array com letras:
-            <h4 id="organizaAlfabeto"></h4>
+            <h4 id="organizaLetras"></h4>
         </p>
         <hr>
         <p>
             Revertendo o Array com letras:
-            <h4 id="reverteAlfabeto"></h4>
+            <h4 id="reverteLetras"></h4>
         </p>
         <hr>
         <p>
@@ -98,6 +98,27 @@
             <h4 id="juntaArray"></h4>
         </p>
 
-        <script></script>
+        <script>
+            // Declarando o Array:
+            // Buscando o primeiro elemento do Array
+            // Buscando o segundo elemento do Array
+            // Buscando o terceiro elemento do Array:
+            // Comprimento do Array
+            // Utilizando o loop através do Array
+            // Adicionando um elemento no final do Array
+            // Adicionando mais elementos no final do Array
+            // Declarando o Array com letras do alfabeto
+            // Organizando o Array com letras
+            // Revertendo o Array com letras
+            // Declarando um Array de números
+            // Encontando o maior número do Array
+            // Encontando o menor número do Array
+            // Atividades Extras
+            // Adicionando elementos no início do Array
+            // Adicionando vários elementos no início do Array
+            // Removendo elemento do início do Array
+            // Removendo elemento do final do Array
+            // Unindo dois arrays
+        </script>
     </body>
 </html>
