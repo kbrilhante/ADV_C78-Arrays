@@ -45,17 +45,17 @@
         <hr>
         <p>
             Declarando o Array com letras do alfabeto:
-            <h4 id="declaraletras"></h4>
+            <h4 id="declaraAlfabeto"></h4>
         </p>
         <hr>
         <p>
             Organizando o Array com letras:
-            <h4 id="organizaLetras"></h4>
+            <h4 id="organizaAlfabeto"></h4>
         </p>
         <hr>
         <p>
             Revertendo o Array com letras:
-            <h4 id="reverteLetras"></h4>
+            <h4 id="reverteAlfabeto"></h4>
         </p>
         <hr>
         <p>
@@ -98,6 +98,6 @@
             <h4 id="juntaArray"></h4>
         </p>
 
-        <script src="main.js"></script>
+        <script></script>
     </body>
 </html>
